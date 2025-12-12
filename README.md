@@ -1,0 +1,1 @@
+This project explores Blinkit sales and delivery data to understand pricing patterns, outlet performance and customer demand. It includes data cleaning, exploratory analysis and visual insights that help identify ways to improve sales and delivery efficiency.
