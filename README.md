@@ -2,10 +2,13 @@ This project explores Blinkit sales and delivery data to understand pricing patt
 
 **Objectives**
 
-Study sales trends across product categories and outlets.
-Understand how pricing, visibility and weight influence demand.
-Analyze delivery performance and find factors that slow down fulfillment.
-Build clear visualizations for business insights.
+1.Study sales trends across product categories and outlets.
+
+2.Understand how pricing, visibility and weight influence demand.
+
+3.Analyze delivery performance and find factors that slow down fulfillment.
+
+4.Build clear visualizations for business insights.
 
 **Tools Used**
 
